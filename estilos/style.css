@@ -1,0 +1,18 @@
+body{
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* Titulares con color distinto */
+h1{ color: #0a5; }
+h2{ color: #b30; }
+h3{ color: #06a; }
+
+/* Cada párrafo: color + tamaño + familia distinta */
+.p1{ color:#222; font-size:18px; font-family: "Georgia", serif; }
+.p2{ color:#7a0; font-size:16px; font-family: "Trebuchet MS", sans-serif; }
+.p3{ color:#036; font-size:17px; font-family: "Courier New", monospace; }
+.p4{ color:#800; font-size:15px; font-family: "Verdana", sans-serif; }
+.p5{ color:#4a148c; font-size:16px; font-family: "Times New Roman", serif; }
+.p6{ color:#005; font-size:14px; font-family: "Arial", sans-serif; }
